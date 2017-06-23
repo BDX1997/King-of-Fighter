@@ -1,0 +1,25 @@
+body{
+	background-image: url(image/sunbinbg.jpg);
+}
+a{
+	color:	#7700FF;
+}
+h1,h2,h3{
+	color: #00FFCC;
+}
+p{
+	color: white;
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}

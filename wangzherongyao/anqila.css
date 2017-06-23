@@ -1,0 +1,25 @@
+body{
+	background-image: url(image/anqilabg.jpg);
+}
+a{
+	color: pink;
+}
+h1,h2,h3{
+	color:#C10066;
+}
+p{
+	color:#FF5511;
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}

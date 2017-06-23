@@ -1,0 +1,25 @@
+body{
+	background-image: url(image/zhaoyunbg.jpg);
+}
+a{
+	color: black;
+}
+h1,h2,h3{
+	color: #BBFF00;
+}
+p{
+	color:#FF3333;
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}

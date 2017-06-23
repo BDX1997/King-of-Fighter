@@ -1,0 +1,31 @@
+body{
+	background-image: url(image/sunwukongbg.jpg);
+}
+a{
+	color:;
+}
+.one{
+	font-size: 40px;
+	color:red;
+	font-style:italic;
+}
+.two{
+	color:white;
+}
+.three{
+	color:green;
+	font-size:22px;
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}

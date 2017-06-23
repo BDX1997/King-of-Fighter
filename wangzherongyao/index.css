@@ -1,0 +1,79 @@
+	body{
+		background-image: url(image/denglubg.jpg)
+	}
+	.one{
+		font-size: 20px;
+		color:#20B2AA;
+	}
+	.two{
+		font-size: 20px;
+		color:#FF4500;
+	}
+	.three{
+		font-family: '楷体';
+		color:pink;
+		font-style: italic;
+		font-size:20px;
+	}
+	#left{
+		float: left;
+		height:550px;
+		width:120px;
+		border-style:dotted;
+		border-color: hotpink;
+		margin-left: 150px;
+	}
+	#right{
+		float:right;
+		height: 220px;
+		width:275px;
+		border-color: blue;
+		margin: 10px;
+		border-style: dotted;
+		margin-right: 200px;
+		margin-top: 100px;
+	}
+	a{
+		color: white;
+	}
+	.yellow{
+		color: yellow;
+		text-align: center;
+	}
+	.image{
+		height: 200px;
+		width: 300px;
+		align: center;
+	}
+	*{
+	margin:0 auto;
+	padding: 0;
+}
+#nav{	
+	float:left;		
+	height: 40px;
+	background-image: url(../images/nav.jpg);
+	width: 100%;
+	background-repeat: repeat-x;
+	height: 40px;
+	padding: 0;
+	margin-top: auto 0;
+}
+.nav_body{
+	width: 1000px;
+	font-weight: bold;
+	color: #522a06;
+	line-height: 40px;
+			
+}
+
+.nav_content{
+	width: 800px;
+	position: center;
+	float: left;
+}
+.biaoti{
+	font-size: 20px;
+	font-weight: 500px;
+	color: red;
+}

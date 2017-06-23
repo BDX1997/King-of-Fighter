@@ -1,0 +1,30 @@
+body{
+	background-image: url(image/libaibg.jpg);
+}
+a{
+	color:blue;
+}
+p{
+	color:black;
+}
+h1,h2,h3{
+	color:brown;
+}
+.one{
+	font-family: '楷体';
+	color:yellow;
+	font-size:20px;
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}

@@ -1,0 +1,22 @@
+body{
+	background-image: url(image/gongbenbg.jpg)
+}
+p,h1,h2,h3{
+	color: white
+}
+a{
+	color: yellow
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}

@@ -1,0 +1,25 @@
+body{
+	background-image: url(image/caiwenjibg.jpg);
+}
+a{
+	color: white;
+}
+h1,h2,h3{
+	color: #FF5511;
+}
+p{
+	color:#FFBB00;
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}

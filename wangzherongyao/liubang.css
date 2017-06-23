@@ -1,0 +1,25 @@
+body{
+	background-image: url(image/liubangbg.jpg);
+}
+a{
+	color: #ff44aa;
+}
+h1,h2,h3{
+	color:#ffb7dd;
+}
+p{
+	color:#66dd00;
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}

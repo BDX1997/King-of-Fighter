@@ -1,0 +1,29 @@
+body{
+	background-image: url(image/lvbubg.jpg);
+}
+.one{
+	font-size:30px;
+	color:orange;
+	font-family: '楷体'
+}
+.two{
+	font-size:20px;
+	color:red;
+	font-family: '黑体'
+}
+a{
+	color:white;
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}

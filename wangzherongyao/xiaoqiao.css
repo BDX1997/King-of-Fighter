@@ -1,0 +1,25 @@
+body{
+	background-image: url(image/xiaoqiaobg.jpg);
+}
+a{
+	color: #009FCC;
+}
+h1,h2,h3{
+	color:#FF0088 ;
+}
+p{
+	color: 	#E93EFF;
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}

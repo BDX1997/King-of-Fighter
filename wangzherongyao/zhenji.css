@@ -1,0 +1,25 @@
+body{
+	background-image: url(image/zhenjibg.jpg);
+}
+a{
+	color: red
+}
+p{
+	color: #ffffff;
+}
+h1,h2,h3{
+	color:#ffcccc;
+}
+#content{
+	width: 1000px;
+	overflow: hidden;
+	color: white;
+}
+a.lj{
+	color: white;
+}
+#content_left{
+	width: 900px;
+	float: left;
+	margin-top: 20px;
+}
